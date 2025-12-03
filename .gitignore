@@ -2,7 +2,7 @@
 # Keep environment variables out of version control
 
 # prisma client generated
-src/generated/prisma
+src/generated/
 
 # Node.js
 node_modules/
